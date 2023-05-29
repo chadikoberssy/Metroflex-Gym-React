@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,mBAAmB;CACnC",
+    "sources": [
+        "../src/scss/styles.scss",
+        "../src/scss/_globals.scss",
+        "../src/scss/_customs.scss",
+        "../src/scss/_customs.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

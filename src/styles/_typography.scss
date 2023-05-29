@@ -1,0 +1,25 @@
+//@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@400;700;800;900&family=Mulish:wght@300;400;700&display=swap');
+
+body{
+    font-family: 'Anton', sans-serif;
+    //font-family: 'Montserrat', sans-serif;
+}
+
+.sectionTitle{
+    color: $primary;
+    font-size: 3rem;
+}
+
+.sectionSubTitle{
+    color: $secondary;
+}
+
+.display2{
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+.description{
+    font-size: 0.9rem;
+    color: $secondary;
+}

@@ -1,0 +1,25 @@
+.info{
+    padding: 100px 0 100px 0;
+    background-color: $background-light;
+
+    .info-card{
+        border: none;
+        text-align: center;
+        background-color: transparent;
+
+        .info-card-img{
+            width:50px;
+            max-width: 100px;
+            margin-left: 16px;
+        }
+
+        .info-card-title{
+            font-size: 2rem;
+            margin-top: 15px;
+        }
+
+        .info-card-text{
+            color: $secondary;
+        }
+    }
+}

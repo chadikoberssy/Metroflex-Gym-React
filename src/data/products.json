@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Creatine, RSP",
+        "price": 22,
+        "path": "./images/creatine-rsp.png",
+        "rating": 5,
+        "like": false,
+        "function": "Increase strenght and muscle mass",
+        "flavor": "unflavored",
+        "servingSize": "1 scoop",
+        "servings": "100 serving",
+        "nutrition": "5g creatine per serving",
+        "categoryid": 1
+    },
+    {
+        "id": 2,
+        "name": "Celltech, Muscletech",
+        "price": 50,
+        "path": "./images/creatine-muscletech.png",
+        "rating": 3,
+        "like": false,
+        "function": "Increase strenght and muscle mass",
+        "flavor": "Fruit Punch",
+        "servingSize": "2 scoops",
+        "servings": "56 serving",
+        "nutrition": "10g creatine, 5g amino + BCAA matrix, 200mg ALA per serving",
+        "categoryid": 1
+    },
+    {
+        "id": 3,
+        "name": "Masstech Extreme 2000, Muscletech",
+        "price": 60,
+        "path": "./images/massgainer-muscletech.png",
+        "rating": 4,
+        "like": false,
+        "function": "Gain mass and muscle size",
+        "flavor": "Chocolate",
+        "servingSize": "6 scoops",
+        "servings": "7 serving",
+        "nutrition": "80g protein, 10g creatine, 400g carbs, 2,270 calories, 8.2g L-leucine per serving",
+        "categoryid": 2
+    },
+    {
+        "id": 4,
+        "name": "Gold Lean Mass 6KG, Kevin Levrone",
+        "price": 90,
+        "path": "./images/massgainer-Levrone.png",
+        "rating": 2,
+        "like": false,
+        "function": "Gain mass and muscle size",
+        "flavor": "Chocolate",
+        "servingSize": "4 scoops",
+        "servings": "15 serving",
+        "nutrition": "70g protein, 72g carbs, 12g sugar, 12g fat, 676 calories per serving",
+        "categoryid": 2
+    }
+]

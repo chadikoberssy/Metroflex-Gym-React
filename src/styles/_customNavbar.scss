@@ -1,0 +1,35 @@
+.navbar{
+    opacity: 0.95;
+    .navbar-toggler{
+        border: none;
+        font-size: 2rem;
+    }
+    .navbar-collapse{
+        .navbar-nav{
+            .nav-link{
+                font-size: 1.2rem;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            .nav-link:hover{
+                color: $main-blue;
+            }
+            .nav-link.active{
+                color: $main-blue;
+            }
+
+            .dropdown-menu{
+                background-color: rgb(33, 37, 41);
+                //margin-top: 31px;
+                a{
+                    color: white;
+                    transition: all 200ms ease-in-out;
+                    &:hover{
+                        color: black;
+                        transition: all 200ms ease-in-out;
+                    }
+                }
+            }
+        }
+    }
+}

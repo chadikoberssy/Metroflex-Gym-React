@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "title": "Member",
+        "path": "client1.jpeg", 
+        "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.",
+        "rating": 3
+    },
+
+    {
+        "id": 2,
+        "name": "Angela Yan",
+        "title": "Member",
+        "path": "client2.jpeg",
+        "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.",
+        "rating": 4
+    },
+
+    {
+        "id": 3,
+        "name": "Jane Smith",
+        "title": "Member",
+        "path": "client3.jpeg",
+        "feedback": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.",
+        "rating": 5
+    }
+]
